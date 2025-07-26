@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋🏾 Hey, I'm Thandolwenkosi Gama
 
-<!--
-**GamaCodesHQ/GamaCodesHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring **AI Engineer** | 🎓 Software Engineering Student @ CTU  
+🔬 Passionate about smart systems, clean code, and creative problem-solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Focus
+- Studying full-time in Software Engineering (Occupational Qualification, NQF 6)
+- Building projects in web development, automation, and smart technologies
+- Exploring AI & machine learning foundations
+
+---
+
+## 🛠️ Tech Toolkit
+```bash
+Languages:    HTML | CSS | JavaScript | C# (Learning) | SQL (Learning) | Python (Learning)
+Tools:        Git & GitHub | Canva | Visual Studio Code | Node.js (Exploring)
